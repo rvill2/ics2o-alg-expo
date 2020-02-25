@@ -16,7 +16,7 @@ average 12: 2:26.25
 best: 35.00
 worst: 4:30.04
 
-2/25/20
+2/25/2020
 total average:  1:01.81
 average 5: 45.67
 average 12: 1:03.13
